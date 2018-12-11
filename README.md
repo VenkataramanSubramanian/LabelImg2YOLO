@@ -2,11 +2,11 @@
 Convert the voc labels generated from labelImg tool into yolo format for training
 
 
-**INTRODUCTION**
+# **INTRODUCTION**
 
 The script helps in converting the voc label datat generated from the labelImg tools csv to yolo format for training it in darkent yolo
 
-**CONFIGURATION**
+# **CONFIGURATION**
 
 The configuration files has the data required to do the convertion process
 
@@ -34,6 +34,6 @@ The configuration files has the data required to do the convertion process
   
   txt_images_path = ./ (The folder in which the output csv file to be stored)
   
-**GENERATING THE LABELS**
+# **GENERATING THE LABELS**
 
 To Generate the labels execute all blocks of the labelimg2yolo_updated.ipynb
